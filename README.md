@@ -14,7 +14,7 @@ ___
 | `Alt + 1`<br>`⌘ 1`            | Project Tool Window        | ![project-tools-window](assets/img/project-tools-window.gif)     |
 | `Esc`                         | Focus on the Editor        | ![show-context-actions](assets/img/show-context-actions.gif)     |
 | `Ctrl + E`<br>`⌘ E`           | View Recent Files          | ![project-tools-window](assets/img/recent-files.gif)             |
-| `Ctrl + B`<br>`⌘ B`           | Go to Declaration          | ![show-context-actions](assets/img/show-context-actions.gif)     |
+| `Ctrl + B`<br>`⌘ B`           | Go to Declaration          | ![ashow-context-actions](assets/img/show-context-actions.gif)    |
 | `Alt + F7`                    | Find Usages                | ![show-context-actions](assets/img/show-context-actions.gif)     |
 | `Ctrl Ctrl`                   | Run Anything               | ![show-context-actions](assets/img/show-context-actions.gif)     |
 | `Ctrl + W`  <br> `⌥↑`         | Extend Selection           | ![show-context-actions](assets/img/show-context-actions.gif)     |
