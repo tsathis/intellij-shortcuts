@@ -7,25 +7,25 @@ A curated list of favorite keyboard shortcuts of IntelliJ-based IDEs.
 
 ___
 
-| Key-binding                   | Action                     | Preview                                                      |
-| ----------------------------- | -------------------------- | ------------------------------------------------------------ |
-| `Alt + Enter`                 | Show Intention Actions     |
-| `F2`                          | Next Highlighted Error     |
-| `Alt + 1`<br>`⌘ 1`            | Project Tool Window        | ![project-tools-window](assets/img/project-tools-window.gif) |
-| `Esc`                         | Focus on the Editor        |
-| `Ctrl + E`<br>`⌘ E`           | View Recent Files          | ![project-tools-window](assets/img/recent-files.gif)         |
-| `Ctrl + B`<br>`⌘ B`           | Go to Declaration          |
-| `Alt + F7`                    | Find Usages                |
-| `Ctrl Ctrl`                   | Run Anything               |
-| `Ctrl + W`  <br> `⌥↑`         | Extend Selection           |
-| `Shift + Ctrl + W` <br> `⌥↓`  | Shrink Selection           |
-| `Ctrl + /`<br>`⌘ /`           | Add/Remove Line Comment    |
-| `Shift + Ctrl + /`<br>`⌥⌘/`   | Add/Remove Block Comment   |
-| `Shift+Ctrl+Enter` <br> `⇧⌘⏎` | Complete Current Statement |
-| `Ctrl+Alt+L` <br> `⌥⌘L`       | Reformat Code              |
-| `Shift+Ctrl+Alt+T` <br> `⌃T`  | Refactor This              |
-| `Shift+Ctrl+A` <br> `⇧⌘A`     | Find Action                |
-| `Shift Shift`                 | Search Everywhere          |
+| Key-binding                   | Action                     | Preview                                                          |
+| ----------------------------- | -------------------------- | ---------------------------------------------------------------- |
+| `Alt + Enter`                 | Show Intention Actions     | ![show-context-actions](assets/img/show-context-actions.gif)     |
+| `F2`                          | Next Highlighted Error     | ![next-highlighted-error](assets/img/next-highlighted-error.gif) |
+| `Alt + 1`<br>`⌘ 1`            | Project Tool Window        | ![project-tools-window](assets/img/project-tools-window.gif)     |
+| `Esc`                         | Focus on the Editor        | ![show-context-actions](assets/img/show-context-actions.gif)     |
+| `Ctrl + E`<br>`⌘ E`           | View Recent Files          | ![project-tools-window](assets/img/recent-files.gif)             |
+| `Ctrl + B`<br>`⌘ B`           | Go to Declaration          | ![show-context-actions](assets/img/show-context-actions.gif)     |
+| `Alt + F7`                    | Find Usages                | ![show-context-actions](assets/img/show-context-actions.gif)     |
+| `Ctrl Ctrl`                   | Run Anything               | ![show-context-actions](assets/img/show-context-actions.gif)     |
+| `Ctrl + W`  <br> `⌥↑`         | Extend Selection           | ![show-context-actions](assets/img/show-context-actions.gif)     |
+| `Shift + Ctrl + W` <br> `⌥↓`  | Shrink Selection           | ![show-context-actions](assets/img/show-context-actions.gif)     |
+| `Ctrl + /`<br>`⌘ /`           | Add/Remove Line Comment    | ![show-context-actions](assets/img/show-context-actions.gif)     |
+| `Shift + Ctrl + /`<br>`⌥⌘/`   | Add/Remove Block Comment   | ![show-context-actions](assets/img/show-context-actions.gif)     |
+| `Shift+Ctrl+Enter` <br> `⇧⌘⏎` | Complete Current Statement | ![show-context-actions](assets/img/show-context-actions.gif)     |
+| `Ctrl+Alt+L` <br> `⌥⌘L`       | Reformat Code              | ![show-context-actions](assets/img/show-context-actions.gif)     |
+| `Shift+Ctrl+Alt+T` <br> `⌃T`  | Refactor This              | ![show-context-actions](assets/img/show-context-actions.gif)     |
+| `Shift+Ctrl+A` <br> `⇧⌘A`     | Find Action                | ![show-context-actions](assets/img/show-context-actions.gif)     |
+| `Shift Shift`                 | Search Everywhere          | ![show-context-actions](assets/img/show-context-actions.gif)     |
 
 ---
 ## Tool Windows 
