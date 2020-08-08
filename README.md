@@ -46,16 +46,16 @@ ___
 ---
 ## Quick Navigation
 
-| Key-binding                         | Action                                         | Preview                                              |
-| ----------------------------------- | ---------------------------------------------- | ---------------------------------------------------- |
-| `Ctrl + N`<br>                      | Navigate to a class                            |                                                      |
-| `Shift + Ctrl + N`<br>              | Navigate to a file                             |                                                      |
-| `Shift + Ctrl + Alt + N`<br>`⌥ ⌘ O` | Navigate to a symbol                           |                                                      |
+| Key-binding                         | Action                                         | Preview                                                |
+| ----------------------------------- | ---------------------------------------------- | ------------------------------------------------------ |
+| `Ctrl + N`<br>                      | Navigate to a class                            | ![navigate-to-class](assets/img/navigate-to-class.gif) |
+| `Shift + Ctrl + N`<br>              | Navigate to a file                             | ![navigate-to-file](assets/img/navigate-to-file.gif)   |
+| `Shift + Ctrl + Alt + N`<br>`⌥ ⌘ O` | Navigate to a symbol                           |                                                        |
 | `Shift Shift`                       | Search Everywhere                              |
-| `Shift +Ctrl + T`<br>               | Navigate between Test file & Test subject file |                                                      |
-| `Shift + Ctrl + E`<br>              | Recent Locations                               | ![recent-locations](assets/img/recent-locations.gif) |
-| `Alt + Home`<br>                    | Jump to Navigation Bar                         |                                                      |
-| `Ctrl + Alt + Left/Right` <br>      | Navigate Back/Forwad                           |                                                      |
+| `Shift +Ctrl + T`<br>               | Navigate between Test file & Test subject file |                                                        |
+| `Shift + Ctrl + E`<br>              | Recent Locations                               | ![recent-locations](assets/img/recent-locations.gif)   |
+| `Alt + Home`<br>                    | Jump to Navigation Bar                         |                                                        |
+| `Ctrl + Alt + Left/Right` <br>      | Navigate Back/Forwad                           |                                                        |
 
 
 ___
