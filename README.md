@@ -13,7 +13,7 @@ ___
 | `F2`                          | Next Highlighted Error     | ![next-highlighted-error](assets/img/next-highlighted-error.gif) |
 | `Alt+1`<br>`⌘ 1`              | Project Tool Window        | ![project-tools-window](assets/img/project-tools-window.gif)     |
 | `Ctrl+E`<br>`⌘ E`             | View Recent Files          | ![project-tools-window](assets/img/recent-files.gif)             |
-| `Ctrl+B`<br>`⌘ B`             | Go to Declaration          | ![go-to-declaration](assets/img/go-to-declaration.gif)           |
+| `Ctrl+B`<br>`⌘ B`             | Go to Declaration          | ![go-to-declaration](assets/img/goto-declaration.gif)            |
 | `Alt+F7`                      | Find Usages                | ![find-usage](assets/img/find-usage.gif)                         |
 | `Ctrl+Alt+F7`                 | Show Usages                | ![show-usage](assets/img/show-usage.gif)                         |
 | `Ctrl Ctrl`                   | Run Anything               | ![run-anything](assets/img/run-anything.gif)                     |
