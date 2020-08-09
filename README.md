@@ -9,18 +9,18 @@ ___
 
 | Key-binding                   | Action                     | Preview                                                          |
 | ----------------------------- | -------------------------- | ---------------------------------------------------------------- |
-| `Alt + Enter`                 | Show Intention Actions     | ![show-context-actions](assets/img/show-context-actions.gif)     |
+| `Alt+Enter`                   | Show Intention Actions     | ![show-context-actions](assets/img/show-context-actions.gif)     |
 | `F2`                          | Next Highlighted Error     | ![next-highlighted-error](assets/img/next-highlighted-error.gif) |
-| `Alt + 1`<br>`⌘ 1`            | Project Tool Window        | ![project-tools-window](assets/img/project-tools-window.gif)     |
-| `Ctrl + E`<br>`⌘ E`           | View Recent Files          | ![project-tools-window](assets/img/recent-files.gif)             |
-| `Ctrl + B`<br>`⌘ B`           | Go to Declaration          | ![go-to-declaration](assets/img/go-to-declaration.gif)           |
-| `Alt + F7`                    | Find Usages                | ![find-usage](assets/img/find-usage.gif)                         |
-| `Ctrl + Alt + F7`             | Show Usages                | ![show-usage](assets/img/show-usage.gif)                         |
+| `Alt+1`<br>`⌘ 1`              | Project Tool Window        | ![project-tools-window](assets/img/project-tools-window.gif)     |
+| `Ctrl+E`<br>`⌘ E`             | View Recent Files          | ![project-tools-window](assets/img/recent-files.gif)             |
+| `Ctrl+B`<br>`⌘ B`             | Go to Declaration          | ![go-to-declaration](assets/img/go-to-declaration.gif)           |
+| `Alt+F7`                      | Find Usages                | ![find-usage](assets/img/find-usage.gif)                         |
+| `Ctrl+Alt+F7`                 | Show Usages                | ![show-usage](assets/img/show-usage.gif)                         |
 | `Ctrl Ctrl`                   | Run Anything               | ![run-anything](assets/img/run-anything.gif)                     |
-| `Ctrl + W`  <br> `⌥↑`         | Extend Selection           | ![extend-selection](assets/img/extend-selection.gif)             |
-| `Shift + Ctrl + W` <br> `⌥↓`  | Shrink Selection           | ![shrink-selection](assets/img/shrink-selection.gif)             |
-| `Ctrl + /`<br>`⌘ /`           | Add/Remove Line Comment    | ![line-comment](assets/img/line-comment.gif)                     |
-| `Shift + Ctrl + /`<br>`⌥⌘/`   | Add/Remove Block Comment   | ![block-comment](assets/img/block-comment.gif)                   |
+| `Ctrl+W`  <br> `⌥↑`           | Extend Selection           | ![extend-selection](assets/img/extend-selection.gif)             |
+| `Shift+Ctrl+W` <br> `⌥↓`      | Shrink Selection           | ![shrink-selection](assets/img/shrink-selection.gif)             |
+| `Ctrl+/`<br>`⌘ /`             | Add/Remove Line Comment    | ![line-comment](assets/img/line-comment.gif)                     |
+| `Shift+Ctrl+/`<br>`⌥⌘/`       | Add/Remove Block Comment   | ![block-comment](assets/img/block-comment.gif)                   |
 | `Shift+Ctrl+Enter` <br> `⇧⌘⏎` | Complete Current Statement | ![complete-statement](assets/img/complete-statement.gif)         |
 | `Ctrl+Alt+L` <br> `⌥⌘L`       | Reformat Code              | ![reformat](assets/img/reformat.gif)                             |
 | `Shift+Ctrl+Alt+T` <br> `⌃T`  | Refactor This              | ![reformat-this](assets/img/reformat-this.gif)                   |
@@ -30,32 +30,32 @@ ___
 ---
 ## Tool Windows 
 
-| Key-binding        | Action               | Preview                                                      |
-| ------------------ | -------------------- | ------------------------------------------------------------ |
-| `Alt + 1`<br>`⌘ 1` | Project Tool Window  | ![project-tools-window](assets/img/project-tools-window.gif) |
-| `Alt + 6`<br>`⌘ 6` | Problems Tool Window |                                                              |
-| `Alt + 7`<br>      | File Structurre      |                                                              |
+| Key-binding      | Action               | Preview                                                      |
+| ---------------- | -------------------- | ------------------------------------------------------------ |
+| `Alt+1`<br>`⌘ 1` | Project Tool Window  | ![project-tools-window](assets/img/project-tools-window.gif) |
+| `Alt+6`<br>`⌘ 6` | Problems Tool Window |                                                              |
+| `Alt+7`<br>      | File Structurre      |                                                              |
 
 ---
 ## Refactoring
 
-| Key-binding          | Action             | Preview                                                  |
-| -------------------- | ------------------ | -------------------------------------------------------- |
-| `Ctrl + Alt + V`<br> | Introduce Variable | ![introduce-variable](assets/img/introduce-variable.gif) |
+| Key-binding      | Action             | Preview                                                  |
+| ---------------- | ------------------ | -------------------------------------------------------- |
+| `Ctrl+Alt+V`<br> | Introduce Variable | ![introduce-variable](assets/img/introduce-variable.gif) |
 
 ---
 ## Quick Navigation
 
-| Key-binding                         | Action                                         | Preview                                                |
-| ----------------------------------- | ---------------------------------------------- | ------------------------------------------------------ |
-| `Ctrl + N`<br>                      | Navigate to a class                            | ![navigate-to-class](assets/img/navigate-to-class.gif) |
-| `Shift + Ctrl + N`<br>              | Navigate to a file                             | ![navigate-to-file](assets/img/navigate-to-file.gif)   |
-| `Shift + Ctrl + Alt + N`<br>`⌥ ⌘ O` | Navigate to a symbol                           |                                                        |
-| `Shift Shift`                       | Search Everywhere                              |
-| `Shift +Ctrl + T`<br>               | Navigate between Test file & Test subject file |                                                        |
-| `Shift + Ctrl + E`<br>              | Recent Locations                               | ![recent-locations](assets/img/recent-locations.gif)   |
-| `Alt + Home`<br>                    | Jump to Navigation Bar                         |                                                        |
-| `Ctrl + Alt + Left/Right` <br>      | Navigate Back/Forwad                           |                                                        |
+| Key-binding                   | Action                                         | Preview                                                |
+| ----------------------------- | ---------------------------------------------- | ------------------------------------------------------ |
+| `Ctrl+N`<br>                  | Navigate to a class                            | ![navigate-to-class](assets/img/navigate-to-class.gif) |
+| `Shift+Ctrl+N`<br>            | Navigate to a file                             | ![navigate-to-file](assets/img/navigate-to-file.gif)   |
+| `Shift+Ctrl+Alt+N`<br>`⌥ ⌘ O` | Navigate to a symbol                           |                                                        |
+| `Shift Shift`                 | Search Everywhere                              |
+| `Shift+Ctrl+T`<br>            | Navigate between Test file & Test subject file |                                                        |
+| `Shift+Ctrl+E`<br>            | Recent Locations                               | ![recent-locations](assets/img/recent-locations.gif)   |
+| `Alt+Home`<br>                | Jump to Navigation Bar                         |                                                        |
+| `Ctrl+Alt+Left/Right` <br>    | Navigate Back/Forwad                           |                                                        |
 
 
 ___
