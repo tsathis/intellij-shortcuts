@@ -12,20 +12,20 @@ ___
 | `Alt + Enter`                 | Show Intention Actions     | ![show-context-actions](assets/img/show-context-actions.gif)     |
 | `F2`                          | Next Highlighted Error     | ![next-highlighted-error](assets/img/next-highlighted-error.gif) |
 | `Alt + 1`<br>`⌘ 1`            | Project Tool Window        | ![project-tools-window](assets/img/project-tools-window.gif)     |
-| `Esc`                         | Focus on the Editor        | ![show-context-actions](assets/img/show-context-actions.gif)     |
 | `Ctrl + E`<br>`⌘ E`           | View Recent Files          | ![project-tools-window](assets/img/recent-files.gif)             |
-| `Ctrl + B`<br>`⌘ B`           | Go to Declaration          | ![ashow-context-actions](assets/img/show-context-actions.gif)    |
-| `Alt + F7`                    | Find Usages                | ![show-context-actions](assets/img/show-context-actions.gif)     |
-| `Ctrl Ctrl`                   | Run Anything               | ![show-context-actions](assets/img/show-context-actions.gif)     |
-| `Ctrl + W`  <br> `⌥↑`         | Extend Selection           | ![show-context-actions](assets/img/show-context-actions.gif)     |
-| `Shift + Ctrl + W` <br> `⌥↓`  | Shrink Selection           | ![show-context-actions](assets/img/show-context-actions.gif)     |
-| `Ctrl + /`<br>`⌘ /`           | Add/Remove Line Comment    | ![show-context-actions](assets/img/show-context-actions.gif)     |
-| `Shift + Ctrl + /`<br>`⌥⌘/`   | Add/Remove Block Comment   | ![show-context-actions](assets/img/show-context-actions.gif)     |
-| `Shift+Ctrl+Enter` <br> `⇧⌘⏎` | Complete Current Statement | ![show-context-actions](assets/img/show-context-actions.gif)     |
-| `Ctrl+Alt+L` <br> `⌥⌘L`       | Reformat Code              | ![show-context-actions](assets/img/show-context-actions.gif)     |
-| `Shift+Ctrl+Alt+T` <br> `⌃T`  | Refactor This              | ![show-context-actions](assets/img/show-context-actions.gif)     |
-| `Shift+Ctrl+A` <br> `⇧⌘A`     | Find Action                | ![show-context-actions](assets/img/show-context-actions.gif)     |
-| `Shift Shift`                 | Search Everywhere          | ![show-context-actions](assets/img/show-context-actions.gif)     |
+| `Ctrl + B`<br>`⌘ B`           | Go to Declaration          | ![go-to-declaration](assets/img/go-to-declaration.gif)           |
+| `Alt + F7`                    | Find Usages                | ![find-usage](assets/img/find-usage.gif)                         |
+| `Ctrl + Alt + F7`             | Show Usages                | ![show-usage](assets/img/show-usage.gif)                         |
+| `Ctrl Ctrl`                   | Run Anything               | ![run-anything](assets/img/run-anything.gif)                     |
+| `Ctrl + W`  <br> `⌥↑`         | Extend Selection           | ![extend-selection](assets/img/extend-selection.gif)             |
+| `Shift + Ctrl + W` <br> `⌥↓`  | Shrink Selection           | ![shrink-selection](assets/img/shrink-selection.gif)             |
+| `Ctrl + /`<br>`⌘ /`           | Add/Remove Line Comment    | ![line-comment](assets/img/line-comment.gif)                     |
+| `Shift + Ctrl + /`<br>`⌥⌘/`   | Add/Remove Block Comment   | ![block-comment](assets/img/block-comment.gif)                   |
+| `Shift+Ctrl+Enter` <br> `⇧⌘⏎` | Complete Current Statement | ![complete-statement](assets/img/complete-statement.gif)         |
+| `Ctrl+Alt+L` <br> `⌥⌘L`       | Reformat Code              | ![reformat](assets/img/reformat.gif)                             |
+| `Shift+Ctrl+Alt+T` <br> `⌃T`  | Refactor This              | ![reformat-this](assets/img/reformat-this.gif)                   |
+| `Shift+Ctrl+A` <br> `⇧⌘A`     | Find Action                | ![find-action](assets/img/find-action.gif)                       |
+| `Shift Shift`                 | Search Everywhere          | ![search-everywhere](assets/img/search-everywhere.gif)           |
 
 ---
 ## Tool Windows 
