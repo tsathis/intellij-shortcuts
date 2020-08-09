@@ -6,6 +6,7 @@ A curated list of favorite keyboard shortcuts of IntelliJ-based IDEs.
 ![jet-brains](assets/img/logo-jet-brains.png)
 
 
+
 - [Quick Navigation](#quick-navigation)
 - [Editor](#editor)
 - [Refactoring](#refactoring)
@@ -23,10 +24,10 @@ A curated list of favorite keyboard shortcuts of IntelliJ-based IDEs.
 | `Shift+Ctrl+E`<br>          | Recent Locations                               | ![recent-locations](assets/img/recent-locations.gif)             |
 | `Ctrl+N`<br>                | Navigate to a class                            | ![navigate-to-class](assets/img/navigate-to-class.gif)           |
 | `Shift+Ctrl+N`<br>          | Navigate to a file                             | ![navigate-to-file](assets/img/navigate-to-file.gif)             |
-| `Shift+Ctrl+Alt+N`<br>`⌥⌘O` | Navigate to a symbol                           |                                                                  |
-| `Shift Shift`               | Search Everywhere                              |
-| `Shift+Ctrl+T`<br>          | Navigate between Test file & Test subject file |                                                                  |
-| `Alt+Home`<br>              | Jump to Navigation Bar                         |                                                                  |
+| `Shift+Ctrl+Alt+N`<br>`⌥⌘O` | Navigate to a symbol                           | ![navigate-to-symbol](assets/img/navigate-to-symbol.gif)         |
+| `Shift Shift`               | Search Everywhere                              | ![search-everywhere](assets/img/search-everywhere.gif)           |
+| `Shift+Ctrl+T`<br>          | Navigate between Test file & Test subject file | ![navigate-to-test](assets/img/navigate-to-test.gif)             |
+| `Alt+Home`<br>              | Jump to Navigation Bar                         | ![navigation-bar](assets/img/navigation-bar.gif)                 |
 | `Ctrl+Alt+Left/Right` <br>  | Navigate Back/Forwad                           |                                                                  |
 | `F2`                        | Next Highlighted Error                         | ![next-highlighted-error](assets/img/next-highlighted-error.gif) |
 | `Ctrl+B`<br>`⌘B`            | Go to Declaration                              | ![go-to-declaration](assets/img/goto-declaration.gif)            |
